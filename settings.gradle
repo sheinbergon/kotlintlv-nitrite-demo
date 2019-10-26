@@ -1,5 +1,6 @@
 rootProject.name = 'kotlintlv-nitrite-demo'
 include 'benchmarks',
+        'advanced-serialization',
         'minimal-setup',
         'simple-indices',
         'multiple-indices',
