@@ -1,8 +1,7 @@
-package org.sheinbergon.nitrite.benchmark;
+package org.sheinbergon.nitrite;
 
 import lombok.AccessLevel;
 import lombok.NoArgsConstructor;
-import lombok.experimental.Accessors;
 import lombok.val;
 import org.dizitart.no2.Document;
 import org.dizitart.no2.mapper.JacksonMapper;

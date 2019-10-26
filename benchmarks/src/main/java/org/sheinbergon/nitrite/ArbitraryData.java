@@ -1,4 +1,4 @@
-package org.sheinbergon.nitrite.benchmark;
+package org.sheinbergon.nitrite;
 
 import lombok.Data;
 import lombok.experimental.Accessors;

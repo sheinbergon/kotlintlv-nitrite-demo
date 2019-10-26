@@ -4,5 +4,11 @@
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="kotlintlv-nitrite-demos.benchmarks.main" target="11" />
+      <module name="kotlintlv-nitrite-demos.benchmarks.test" target="11" />
+      <module name="kotlintlv-nitrite-demos.main" target="11" />
+      <module name="kotlintlv-nitrite-demos.test" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
