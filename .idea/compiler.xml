@@ -5,6 +5,8 @@
       <profile default="true" name="Default" enabled="true" />
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="kotlintlv-nitrite-demo.minimal.main" target="11" />
+      <module name="kotlintlv-nitrite-demo.minimal.test" target="11" />
       <module name="kotlintlv-nitrite-demos.benchmarks.main" target="11" />
       <module name="kotlintlv-nitrite-demos.benchmarks.test" target="11" />
       <module name="kotlintlv-nitrite-demos.main" target="11" />
